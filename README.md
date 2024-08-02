@@ -1,4 +1,5 @@
 выыфшщы
+<img src="https://github.com/user-attachments/assets/78ef06c4-9ee2-4093-a36a-562353862a7e" width=100>
 
 привет lhepmz
 <div align='right'>
@@ -121,7 +122,7 @@ void (*old_ExecuteCommands)(void* weapon, WeaponCmd commands, float duration, fl
 — Вологда  
 — Воронеж 
 — Владимир  
-
+<img src="https://github.com/user-attachments/assets/79c3a756-8b06-49bc-ac0b-e051b9b705fe" width=600>
 — Екатеринбург 
 — Ижевск 
 — Иркутск 
@@ -181,3 +182,4 @@ void (*old_ExecuteCommands)(void* weapon, WeaponCmd commands, float duration, fl
 — Якутск  
 — Ярославль 
 </h1>
+
