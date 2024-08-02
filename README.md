@@ -183,3 +183,4 @@ void (*old_ExecuteCommands)(void* weapon, WeaponCmd commands, float duration, fl
 — Ярославль 
 </h1>
 
+![image](https://github.com/user-attachments/assets/580b6eab-770b-4d47-b690-d5b364dc8e66)
