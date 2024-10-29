@@ -123,6 +123,8 @@ void (*old_ExecuteCommands)(void* weapon, WeaponCmd commands, float duration, fl
 — Воронеж 
 — Владимир  
 <img src="https://github.com/user-attachments/assets/79c3a756-8b06-49bc-ac0b-e051b9b705fe" width=600>
+<img src="https://github.com/user-attachments/assets/8c97745f-1dd0-4e7c-90dc-b1a9f1d923d0" width=600>
+
 — Екатеринбург 
 — Ижевск 
 — Иркутск 
