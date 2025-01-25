@@ -1,6 +1,9 @@
 выыфшщы
 <img src="https://github.com/user-attachments/assets/78ef06c4-9ee2-4093-a36a-562353862a7e" width=100>
 
+<source media='(prefers-color-scheme: dark)' srcset='https://i.imgur.com/HXltrQC.png' alt='работник ж++ (белый) (не расизм)' width='200px'/>
+<img src='https://i.imgur.com/iJuMeH0.png' alt='работник ж++ (черный) (не расизм)' width='200px'/>
+
 привет lhepmz
 <div align='right'>
 <img src="https://github.com/user-attachments/assets/88a532c4-60f9-4352-9fa0-f8f97dc0d24a" width=320>
