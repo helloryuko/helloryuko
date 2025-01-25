@@ -1,8 +1,12 @@
 выыфшщы
 <img src="https://github.com/user-attachments/assets/78ef06c4-9ee2-4093-a36a-562353862a7e" width=100>
 
-<source media='(prefers-color-scheme: dark)' srcset='https://i.imgur.com/HXltrQC.png' alt='работник ж++ (белый) (не расизм)' width='200px'/>
-<img src='https://i.imgur.com/iJuMeH0.png' alt='работник ж++ (черный) (не расизм)' width='200px'/>
+<a title='j++' href='https://github.com/jppteam'>
+  <picture>
+    <source media='(prefers-color-scheme: dark)' srcset='https://i.imgur.com/HXltrQC.png' alt='работник ж++ (белый) (не расизм)' width='200px'/>
+    <img src='https://i.imgur.com/iJuMeH0.png' alt='работник ж++ (черный) (не расизм)' width='200px'/>
+  </picture>
+</a>
 
 привет lhepmz
 <div align='right'>
