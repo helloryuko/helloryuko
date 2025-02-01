@@ -5,6 +5,7 @@
   </picture>
 </a>
 
+![Untitled](https://github.com/user-attachments/assets/c91fe845-b355-4353-90bd-5877bef31a42)
 выыфшщы
 <img src="https://github.com/user-attachments/assets/78ef06c4-9ee2-4093-a36a-562353862a7e" width=100>
 
