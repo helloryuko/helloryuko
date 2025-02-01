@@ -205,6 +205,9 @@ void (*old_ExecuteCommands)(void* weapon, WeaponCmd commands, float duration, fl
 6) Парсер
 https://github.com/user-attachments/assets/c8d1055d-0401-46b3-99a4-aaeb028a6cbb
 
+![IMG_7278](https://github.com/user-attachments/assets/0e7429f7-ed90-4748-858b-0350f4fac03e)
+
+
 7) Свеггу ( у тебя она конкретно джуганная + хэшанная + не легит риковенс + ты нищий + без айди + без скита + без турбера + без ровера + без парсера + без денег + без айдишки + без братишки)
 8) Парсер (8к евро)
 9) 4 ляма евро на балансе
