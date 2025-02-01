@@ -150,7 +150,7 @@ void (*old_ExecuteCommands)(void* weapon, WeaponCmd commands, float duration, fl
 — Кострома  
 — Красноярск 
 — Краснодар 
-— Крым | Севастополь 
+— Крым | Севастополь (украинсикй)
 — Курган   
 — Курск   
 
