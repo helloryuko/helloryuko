@@ -1,55 +1,55 @@
-<a title='j++' href='https://github.com/jppteam'>
+<a title='Joint Venture' href='https://github.com/jppteam'>
   <picture>
     <source media='(prefers-color-scheme: dark)' srcset='https://i.imgur.com/Rwg0cHu.png' alt='Employee of the J++ Software Development Team (white) (excludes any possibility of discrimination based on skin color)' width='500px'/>
     <img src='https://i.imgur.com/YvloIVa.png' alt='Employee of the J++ Software Development Team (black) (excludes any possibility of discrimination based on skin color)' width='500px'/>
   </picture>
 </a>
 
-Unfortunately, the image provided here can't be loaded because of unpredicted circumstances. Please, try again later.
+Due to unforeseen circumstances, the image provided herein is currently unavailable. Please attempt to reload at a later time.
 
 <img src="https://i.imgur.com/s9Ul4g1.png" width=300>
 
-Good afternoon, my dear friends.
+Good afternoon, esteemed colleagues.
 <div align='right'>
 <img src="https://i.imgur.com/m9y2fWh.png" width=320>
 </div>
 
-# May I know, why such a small amount of people discuss the absence of basic human rights of a regular man? A man should be allowed to...
-Unofficially assign the ownership of a road sign to himself 🛑
+# May I inquire as to the limited discourse surrounding the deprivation of fundamental human rights of an ordinary individual? An individual should be entitled to...
+Illegally appropriate the ownership of a traffic control device 🛑
 ![1711300627972](https://i.imgur.com/yTVlxq9.jpeg)
 
 Zeemo, [7/27/2024 5:02 PM]
-Not the most intelligent afro-american person
+Not the most intellectually gifted African-American person
 
 Zeemo, [7/27/2024 5:02 PM]
-Afro-american person
+African-American person
 
 Zeemo, [7/27/2024 5:02 PM]
-Very powerful gas
+Highly potent gaseous substance
 
 Zeemo, [7/27/2024 5:03 PM]
-I don't think that very powerful gas is in the list of things I like
+I do not believe that highly potent gaseous substance is included in the list of my preferences
 
 Zeemo, [7/27/2024 5:03 PM]
 Ohhhhhhhhh
 
 Zeemo, [7/27/2024 5:03 PM]
-A person, which involves themselves in criminal activities
+A person, who engages in criminal activities
 
 Zeemo, [7/27/2024 5:03 PM]
-I'm laughing
+I am experiencing amusement
 
 Zeemo, [7/27/2024 5:03 PM]
-Most afro-american people
+Most African-American people
 
 Zeemo, [7/27/2024 5:04 PM]
-Pierogi, made from the meat of a grandmother
+Pierogi, manufactured from the flesh of a maternal grandparent
 
 Zeemo, [7/27/2024 5:04 PM]
-And a sauce, made from a grandfather
+And a sauce, derived from a paternal grandparent
 
 Zeemo, [7/27/2024 5:04 PM]
-It is very awesome too
+It is also exceptionally commendable
 ![image](https://i.imgur.com/3sVXZgF.png)
 
 bool (*ChewskyBit)(void* crumpet);struct TeaCmd { 
@@ -112,13 +112,13 @@ void (*old_SendItMate)(void* crumpet, TeaCmd teatime, float cheerio, float innit
 
 
 
- 😳 Be aware! Don't think that the place you locate yourself at has all the safety measures to prevent crime from happening.
+ 😳 Be advised! It is not to be assumed that the location in which you are situated possesses all necessary safeguards to prevent criminal activity.
 
-Assasinations, illegal transfer of ownership, sexual abuse— all of the afforementioned are happening on the streets of the city of your primary location every single day. 
+Assassinations, unlawful transfer of property, sexual assault— all of the aforementioned are occurring on the streets of the city of your primary residence on a daily basis. 
 
-Subscribers of our information channels give us access to exclusive content without any censorship, and we publish the materials we mentioned before in a public domain.
+Subscribers to our information channels are granted access to exclusive content without any form of censorship, and we disseminate the aforementioned materials in the public domain.
 
-Look for your city and check what's happening👇
+Identify your city and ascertain the prevailing circumstances👇
 
 — Москва
 — Санкт-Петербург  
@@ -199,10 +199,10 @@ Look for your city and check what's happening👇
 ![image](https://github.com/user-attachments/assets/580b6eab-770b-4d47-b690-d5b364dc8e66)
 </h1>
 
-Oi mate, let's establish your bloody position in this chinwag. You're a bloomin' peasant without Buckingham Palace Crumpets, Royal Tea Service Collection. You're trying to nick my signature innit. 1) You've got no Yorkshire Tea membership (uid 1337 go on then bruv @ me you muppet), no London Eye season pass, no Rolls Royce, no posh swagger. Your swagger's proper rubbish mate. Speaking of rubbish, R = royal, know where that letter appears? That's right, in my Buckingham Palace Crumpets which you'll never own, you don't even have a TV license that costs 1200 quid while Buckingham Palace Crumpets cost 1400 pounds sterling govnah, what money are we even discussing when you're skint, speaking of being skint here's what else you don't have: Yorkshire Tea membership, Buckingham Palace Crumpets, Royal Tea Service, no connections with Sir David Attenborough or at least with the Queen's Corgis Gang, if you think your knockoff Royal Scones (BLOODY HELL MATE XDDDDDDDDDD) mean you can communicate with me, I'll disappoint you - I won't even speak to plebs like you. Know your place you buttered crumpet who must understand that a person (that's me) who owns 1) Buckingham Palace Crumpets
+Esteemed colleague, let us establish your legal standing within this discourse. You are a non-titled individual, lacking the privileges associated with Buckingham Palace Crumpets and the Royal Tea Service Collection. You are attempting to infringe upon my intellectual property. 1) You lack a Yorkshire Tea membership (UID 1337, engage with me, you imbecile @ me), a London Eye season pass, a Rolls Royce, and the requisite decorum. Your decorum is demonstrably deficient. Speaking of deficiencies, R = Royal, where does that letter appear? Precisely, within my Buckingham Palace Crumpets, which you will never possess. You do not even hold a television license, valued at 1200 GBP, while Buckingham Palace Crumpets are priced at 1400 GBP, what financial resources are we even discussing when you are insolvent? Speaking of insolvency, here are additional assets you do not possess: Yorkshire Tea membership, Buckingham Palace Crumpets, Royal Tea Service, no affiliations with Sir David Attenborough or, at a minimum, the Queen's Corgis Gang. If you believe your counterfeit Royal Scones (EXCLAMATION OF DISBELIEF) grant you the right to communicate with me, I must disappoint you—I will not engage with individuals of your social standing. Comprehend your position, you buttered crumpet, and understand that an individual (that is, myself) who possesses: 1) Buckingham Palace Crumpets
 (2 pairs)
 2) Royal Tea Service Collection (2 sets)
-3) Royal titles (@Sir, @Lord, @EarlOfCrumpetshire, oi get yourself something already bruv xD)
+3) Royal titles (@Sir, @Lord, @EarlOfCrumpetshire, acquire some titles, you buffoon xD)
 4) London Eye pass
 5) Rolls Royce
 6) Tea Strainer
@@ -210,10 +210,10 @@ Oi mate, let's establish your bloody position in this chinwag. You're a bloomin'
 ![IMG_7278](https://github.com/user-attachments/assets/0e7429f7-ed90-4748-858b-0350f4fac03e)
 
 
-7) Posh swagger (yours is proper rubbish + counterfeit + knockoff royal gear + you're skint + no titles + no tea membership + no London Eye pass + no Rolls + no tea strainer + no quid + no titles + no mates)
+7) Posh swagger (yours is demonstrably deficient + counterfeit + imitation royal accoutrements + you are insolvent + no titles + no tea membership + no London Eye pass + no Rolls Royce + no tea strainer + no funds + no titles + no associates)
 8) Tea Strainer (8k pounds sterling)
 9) 4 million pounds sterling in the Royal Bank
-And you really think after what I'm writing to you in this moment of time and space you can do anything to someone who's so loaded they could buy a Crumpet factory every bloody day?
-I'll ask you a simple question: - when will you @ me on Yorkshire Tea chat you membershipless muppet innit
+And you genuinely believe, given the content of this communication, that you can exert any influence over an individual of such substantial financial means that they could acquire a Crumpet manufacturing facility on a daily basis?
+I pose a straightforward inquiry: - when will you @ me on Yorkshire Tea chat, you membership-less imbecile?
 
 ![image](https://github.com/user-attachments/assets/56b8bd61-d28d-45d8-9a06-0edfcc2d0d2d)
