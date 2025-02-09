@@ -1,5 +1,5 @@
 > **MEMORANDUM**
-> Should the reader of this document experience difficulty in comprehending the informal style of presentation, said individual is directed to refer to the [READMEMESIR.md](READMEMESIR.md) file for further information.
+> Should the reader of this document experience difficulty in comprehending the informal style of presentation, said individual is directed to refer to the [READMESIR.md](READMESIR.md) file for further information.
 
 <a title='j++' href='https://github.com/jppteam'>
   <picture>
