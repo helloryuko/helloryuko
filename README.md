@@ -1,3 +1,6 @@
+> **MEMORANDUM**
+> Should the reader of this document experience difficulty in comprehending the informal style of presentation, said individual is directed to refer to the [READMEMESIR.md](READMEMESIR.md) file for further information.
+
 <a title='j++' href='https://github.com/jppteam'>
   <picture>
     <source media='(prefers-color-scheme: dark)' srcset='https://i.imgur.com/HXltrQC.png' alt='работник ж++ (белый) (не расизм)' width='200px'/>
