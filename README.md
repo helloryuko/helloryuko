@@ -211,6 +211,7 @@ https://github.com/user-attachments/assets/c8d1055d-0401-46b3-99a4-aaeb028a6cbb
 
 ![IMG_7278](https://github.com/user-attachments/assets/0e7429f7-ed90-4748-858b-0350f4fac03e)
 
+<img width="739" height="985" alt="image" src="https://github.com/user-attachments/assets/628b32d3-3108-487e-9874-22d4dc048854" />
 
 7) Свеггу ( у тебя она конкретно джуганная + хэшанная + не легит риковенс + ты нищий + без айди + без скита + без турбера + без ровера + без парсера + без денег + без айдишки + без братишки)
 8) Парсер (8к евро)
@@ -220,3 +221,7 @@ https://github.com/user-attachments/assets/c8d1055d-0401-46b3-99a4-aaeb028a6cbb
 
 ![image](https://github.com/user-attachments/assets/56b8bd61-d28d-45d8-9a06-0edfcc2d0d2d)
 
+
+
+![PXL_20251022_010955803](https://github.com/user-attachments/assets/e1eb1eb0-bb8e-404e-aa25-2a17f046adac)
+(я в юбочке миленькая :з бабло кстати тоже моё а между ножек мой мальчик миленький хехехехеее)
