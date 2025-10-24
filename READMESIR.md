@@ -137,6 +137,7 @@ Identify your city and ascertain the prevailing circumstances👇
 <img src="https://github.com/user-attachments/assets/79c3a756-8b06-49bc-ac0b-e051b9b705fe" width=600>
 <img src="https://github.com/user-attachments/assets/8c97745f-1dd0-4e7c-90dc-b1a9f1d923d0" width=600>
 <img src="https://github.com/user-attachments/assets/40bafc75-0c34-442d-818e-557b0eb34f74" width=600>
+<img src="https://github.com/user-attachments/assets/178c97c2-2f8b-4b69-b22d-24b2aec6dad4" width=600>
 
 — Екатеринбург 
 — Ижевск 
