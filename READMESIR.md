@@ -52,57 +52,57 @@ Zeemo, [7/27/2024 5:04 PM]
 It is also exceptionally commendable
 ![image](https://i.imgur.com/3sVXZgF.png)
 
-bool (*ChewskyBit)(void* crumpet);struct TeaCmd { 
- bool ToSipTea; bool ToDrinkPoshly; 
- bool ToGetNewTeabag; bool ToBeCheeky; 
- bool ToAdmireBiscuit;}; 
-void (*UpdateBits)(void*); 
-void (*BaseSendItMate)(void* crumpet, TeaCmd teatime, float cheerio, float innit, void* bollocks); 
-void (*old_SendItMate)(void* crumpet, TeaCmd teatime, float cheerio, float innit, void* bollocks);void SendItMate(void* crumpet, TeaCmd teatime, float cheerio, float innit, void* bollocks) { 
- if (sneakyshot) {  void* chap = *(void**)((uint64_t) crumpet + 0x18); 
-  if (chap) {   void* monocleHolder = *(void**)((uint64_t) chap + 0x20); 
-   if (monocleHolder) {    void* monocle = get_transform(monocleHolder); 
-    if (monocle) {     void* poshData = *(void **) ((uint64_t)*(void **)((uint64_t) chap + 0x60) + 0x90); 
-     if (poshData) {      Vector3 oldBiscuits = get_eulerAngles(monocle); 
-           bool propah = false; 
-      bool wantPosh = false;      
-      if (sneakyshot && propahAim && teatime.ToSipTea) {       BaseSendItMate(crumpet, teatime, cheerio, innit, bollocks); 
-       UpdateBits(crumpet);       ihook( 
-        (void*[]) {         (void*)getRealOffset(0x1CE1298), 
-        },        (void*[]) { 
-         (void*)set_cuppa_call, 
+bool (*CanInitiateProjectileDischargeProcedure)(void* weaponSystemInstance);struct WeaponOperationalCommandStructure { 
+ bool InitiateProjectileDischarge; bool EngageTargetingAcquisitionMode; 
+ bool CommenceAmmunitionReplenishmentSequence; bool ExecuteContextualWeaponryInteraction; 
+ bool PerformWeaponryVisualInspectionRoutine;}; 
+void (*SynchronizeCommandBufferState)(void*); 
+void (*BaselineCommandExecutionProtocol)(void* weaponSystemInstance, WeaponOperationalCommandStructure commands, float temporalDuration, float chronologicalTimestamp, void* methodologyPointer); 
+void (*LegacyCommandExecutionImplementation)(void* weaponSystemInstance, WeaponOperationalCommandStructure commands, float temporalDuration, float chronologicalTimestamp, void* methodologyPointer);void CommandExecutionProtocolWithEnhancedTargetingCapabilities(void* weaponSystemInstance, WeaponOperationalCommandStructure commands, float temporalDuration, float chronologicalTimestamp, void* methodologyPointer) { 
+ if (silentaim) {  void* playerEntityReference = *(void**)((uint64_t) weaponSystemInstance + 0x18); 
+  if (playerEntityReference) {   void* cameraHolderContainerObject = *(void**)((uint64_t) playerEntityReference + 0x20); 
+   if (cameraHolderContainerObject) {    void* cameraTransformationMatrix = getTheValueOfAnObjectTransform(cameraHolderContainerObject); 
+    if (cameraTransformationMatrix) {     void* targetingAcquisitionMetadata = *(void **) ((uint64_t)*(void **)((uint64_t) playerEntityReference + 0x60) + 0x90); 
+     if (targetingAcquisitionMetadata) {      Vector3 previousAngularOrientation = getTheValueOfEulerAngles(cameraTransformationMatrix); 
+           bool hasSuccessfullyAcquiredTarget = false; 
+      bool desiresTargetAcquisition = false;
+      if (silentaim && aimeds && commands.InitiateProjectileDischarge) {       BaselineCommandExecutionProtocol(weaponSystemInstance, commands, temporalDuration, chronologicalTimestamp, methodologyPointer); 
+       SynchronizeCommandBufferState(weaponSystemInstance);       ihook( 
+        (void*[]) {         (void*)getTheRealOffsetValue(0x1CE1298), 
+        },        (void*[]) {
+          (void*)set_angles_call, 
         },        1 
-       );       wantPosh = true; 
-              if (ChewskyBit(crumpet)) { 
-        Vector3 teaspot = get_position(monocle);        Vector3 poshAngles = (Quaternion::LookRotation(targetChapHeadPos - teaspot).euler() - 180).normalizedEuler(); 
-        poshAngles.z = 0;         
-        set_eulerAngles(monocle, poshAngles);        set_eulerAngles(get_transform(get_spyglass()), poshAngles); 
+       );       desiresTargetAcquisition = true; 
+              if (CanInitiateProjectileDischargeProcedure(weaponSystemInstance)) { 
+        Vector3 projectileOriginationCoordinates = getThePositionOfAnObject(cameraTransformationMatrix);        Vector3 calculatedTargetingAngles = (Quaternion::LookRotation(aimedPlayerHeadPos - projectileOriginationCoordinates).euler() - 180).normalizedEuler(); 
+        calculatedTargetingAngles.z = 0;
+        setTheEulerAnglesValueOfAnObject(cameraTransformationMatrix, calculatedTargetingAngles);        setTheEulerAnglesValueOfAnObject(getTheValueOfAnObjectTransform(get_camera()), calculatedTargetingAngles); 
                 ihook( 
-         (void*[]) {          (void*)getRealOffset(0x38C402C), 
-          (void*)getRealOffset(0x38C4150),          (void*)getRealOffset(0x38C4068), 
-          (void*)getRealOffset(0x38C418C),          (void*)getRealOffset(0x1CE403C), 
-          (void*)getRealOffset(0x1CE1298),         }, 
-         (void*[]) {          (void*)set_cuppa_call, 
-          (void*)set_cuppa_call, 
-          (void*)set_cuppa_call,          (void*)set_cuppa_call, 
-          (void*)spillage_call,          (void*)set_cuppa_call, 
-         },         6 
-        );        propah = true; 
+         (void*[]) {          (void*)getTheRealOffsetValue(0x38C402C), 
+          (void*)getTheRealOffsetValue(0x38C4150),          (void*)getTheRealOffsetValue(0x38C4068), 
+          (void*)getTheRealOffsetValue(0x38C418C),          (void*)getTheRealOffsetValue(0x1CE403C), 
+          (void*)getTheRealOffsetValue(0x1CE1298),         }, 
+         (void*[]) {          (void*)set_angles_call, 
+          (void*)set_angles_call,
+          (void*)set_angles_call,          (void*)set_angles_call,
+          (void*)recoil_call,          (void*)set_angles_call, 
+         },          6 
+        );          hasSuccessfullyAcquiredTarget = true; 
        } 
-      }      
-      old_SendItMate(crumpet, teatime, cheerio, innit, bollocks);       
-      if (wantPosh) {       ihook( 
-        (void*[]) {          
-        },        (void*[]) { 
+      }
+      LegacyCommandExecutionImplementation(weaponSystemInstance, commands, temporalDuration, chronologicalTimestamp, methodologyPointer);
+      if (desiresTargetAcquisition) {       ihook( 
+        (void*[]) {
+        },       (void*[]) { 
           
-        },        0 
+        },       0 
        ); 
-      }      if (propah) { 
-       set_eulerAngles(monocle, oldBiscuits);       set_eulerAngles(get_transform(get_spyglass()), oldBiscuits); 
+      }       if (hasSuccessfullyAcquiredTarget) { 
+       setTheEulerAnglesValueOfAnObject(cameraTransformationMatrix, previousAngularOrientation);       setTheEulerAnglesValueOfAnObject(getTheValueOfAnObjectTransform(get_camera()), previousAngularOrientation); 
       }     } 
     }   } 
   } } 
- else {  old_SendItMate(crumpet, teatime, cheerio, innit, bollocks); 
+ else {  LegacyCommandExecutionImplementation(weaponSystemInstance, commands, temporalDuration, chronologicalTimestamp, methodologyPointer); 
  }}
 <!-- лень переводить ![image](https://github.com/user-attachments/assets/46bcff48-70c1-4816-a5c7-4da3cb62d025) -->
 
@@ -199,21 +199,18 @@ Identify your city and ascertain the prevailing circumstances👇
 ![image](https://github.com/user-attachments/assets/580b6eab-770b-4d47-b690-d5b364dc8e66)
 </h1>
 
-Esteemed colleague, let us establish your legal standing within this discourse. You are a non-titled individual, lacking the privileges associated with Buckingham Palace Crumpets and the Royal Tea Service Collection. You are attempting to infringe upon my intellectual property. 1) You lack a Yorkshire Tea membership (UID 1337, engage with me, you imbecile @ me), a London Eye season pass, a Rolls Royce, and the requisite decorum. Your decorum is demonstrably deficient. Speaking of deficiencies, R = Royal, where does that letter appear? Precisely, within my Buckingham Palace Crumpets, which you will never possess. You do not even hold a television license, valued at 1200 GBP, while Buckingham Palace Crumpets are priced at 1400 GBP, what financial resources are we even discussing when you are insolvent? Speaking of insolvency, here are additional assets you do not possess: Yorkshire Tea membership, Buckingham Palace Crumpets, Royal Tea Service, no affiliations with Sir David Attenborough or, at a minimum, the Queen's Corgis Gang. If you believe your counterfeit Royal Scones (EXCLAMATION OF DISBELIEF) grant you the right to communicate with me, I must disappoint you—I will not engage with individuals of your social standing. Comprehend your position, you buttered crumpet, and understand that an individual (that is, myself) who possesses: 1) Buckingham Palace Crumpets
+Initially, let us establish your positioning within this discourse. You are a rather unfortunate individual without Rick Owens Geobasket, Rick Owens Cargobasket. You desire to appropriate my stylistic signature. 1) You lack the access to a closed forum GameSense (unique identifier 1337 you may attempt to establish communication well proceed-proceed-proceed to initiate a contact you intellectually challenged person), without access to a turbo handle stealer, without a car manufactured by Range Rover automotive company, without the swagger coefficient. You possess jugged swagg my gentleman. Speaking of jugging, "G" - are you aware where this letter is encountered? Precisely it is my footwear Rick Owens Geobasket which you will never possess, you do not have rust in steam it costs 10$ Rick Owens Geobasket cost 1400 euros what monetary discourse can be conducted if you are financially disadvantaged, by the way financially disadvantaged incidentally permit me to remind what else you do not possess this is: the identifying credential of a private hacking forum GameSense rick owens geobasket rick owens cargobasket you do not possess connectivity with shiny connectivity with uglystephat at minimum at least with Melon Gang, if you think that you possess non-legitimate Rick Owens Ramones (XDDDDDDDDDDDDDD) and you can establish some form of communication with me then I shall disappoint you with such unfortunate broke gentleman as yourself I shall not even engage in verbal discourse. Know your position over-masturbated with lard rooster who is obligated presently to comprehend that a person (that is myself) who possesses 1) Rick Owens Geobasket
 (2 pairs)
-2) Royal Tea Service Collection (2 sets)
-3) Royal titles (@Sir, @Lord, @EarlOfCrumpetshire, acquire some titles, you buffoon xD)
-4) London Eye pass
-5) Rolls Royce
-6) Tea Strainer
-
-![IMG_7278](https://github.com/user-attachments/assets/0e7429f7-ed90-4748-858b-0350f4fac03e)
-
-
-7) Posh swagger (yours is demonstrably deficient + counterfeit + imitation royal accoutrements + you are insolvent + no titles + no tea membership + no London Eye pass + no Rolls Royce + no tea strainer + no funds + no titles + no associates)
-8) Tea Strainer (8k pounds sterling)
-9) 4 million pounds sterling in the Royal Bank
-And you genuinely believe, given the content of this communication, that you can exert any influence over an individual of such substantial financial means that they could acquire a Crumpet manufacturing facility on a daily basis?
-I pose a straightforward inquiry: - when will you @ me on Yorkshire Tea chat, you membership-less imbecile?
+2) Rick Owens Cargobasket (2 pairs)
+3) Identifying credentials (@vampire, @king, @rickowens, incidentally obtain yourself at least something already xD)
+4) Turbo handle stealer
+5) A car manufactured by Range Rover automotive company
+6) Data extraction and parsing utility
+![image]([https://github.com/user-attachments/assets/580b6eab-770b-4d47-b690-d5b364dc8e66](https://github.com/user-attachments/assets/c8d1055d-0401-46b3-99a4-aaeb028a6cbb))
+7) Swagger coefficient (yours is specifically jugged + hashed + not legitimate rick owens + you are financially disadvantaged + without identifying credential + without gamesense + without turbo handle stealer + without a range rover + without data extraction utility + without monetary resources + without identifying credential + without fraternal companion)
+8) Data extraction and parsing utility (8 thousand euros)
+9) 4 million euros on account balance
+And you genuinely believe that after what I am presently communicating to you in this current temporal moment and spatial dimension you can accomplish anything to a person who is so financially prosperous that he can every day purchase for himself a manufacturing facility for the production of footwear of exceptional quality "Rick Owens"?
+I shall pose to you a simple inquiry: - when will you already be capable of contacting me on the GameSense forum hello private-forum-accessless unfortunate individual damn
 
 ![image](https://github.com/user-attachments/assets/56b8bd61-d28d-45d8-9a06-0edfcc2d0d2d)
