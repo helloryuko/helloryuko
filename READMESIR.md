@@ -206,7 +206,11 @@ Initially, let us establish your positioning within this discourse. You are a ra
 4) Turbo handle stealer
 5) A car manufactured by Range Rover automotive company
 6) Data extraction and parsing utility
-![image]([https://github.com/user-attachments/assets/580b6eab-770b-4d47-b690-d5b364dc8e66](https://github.com/user-attachments/assets/c8d1055d-0401-46b3-99a4-aaeb028a6cbb))
+https://github.com/user-attachments/assets/c8d1055d-0401-46b3-99a4-aaeb028a6cbb
+
+![IMG_7278](https://github.com/user-attachments/assets/0e7429f7-ed90-4748-858b-0350f4fac03e)
+
+
 7) Swagger coefficient (yours is specifically jugged + hashed + not legitimate rick owens + you are financially disadvantaged + without identifying credential + without gamesense + without turbo handle stealer + without a range rover + without data extraction utility + without monetary resources + without identifying credential + without fraternal companion)
 8) Data extraction and parsing utility (8 thousand euros)
 9) 4 million euros on account balance
