@@ -224,4 +224,4 @@ I shall pose to you a simple inquiry: - when will you already be capable of cont
 
 
 ![PXL_20251022_010955803](https://github.com/user-attachments/assets/1e900981-6343-4bf6-9c8b-fc1790ecb5a5)
-(I am the cute person wearing a skirt outfut. By the way, the funds on this photo are also owned by me, and between my legs is a very beautiful person that is my partner.)
+(On this photocard, I am the exceptionally precious person wearing a skirt. By the way, the funds on this photo are my possesion, and between my legs is a very commendably beautiful person that happens to be my dating partner.)
