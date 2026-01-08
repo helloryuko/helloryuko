@@ -17,6 +17,8 @@
 <img src="https://github.com/user-attachments/assets/88a532c4-60f9-4352-9fa0-f8f97dc0d24a" width=320>
 </div>
 
+<img width="594" height="534" alt="image" src="https://github.com/user-attachments/assets/5a3a2c81-f9e4-4b0e-a843-8713e214026d" />
+
 # Почему так мало сейчас говорят о правах простых мужчин? 😑 Вообще-то мальчик имеет право...
 Спиздить знак 🛑
 ![1711300627972](https://github.com/user-attachments/assets/0c47351b-909c-4e29-9528-f49c210723f6)
