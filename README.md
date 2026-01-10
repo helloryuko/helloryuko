@@ -3,8 +3,8 @@
 
 <a title='j++' href='https://github.com/jppteam'>
   <picture>
-    <source media='(prefers-color-scheme: dark)' srcset='https://i.imgur.com/HXltrQC.png' alt='работник ж++ (белый) (не расизм)' width='200px'/>
-    <img src='https://i.imgur.com/iJuMeH0.png' alt='работник ж++ (черный) (не расизм)' width='200px'/>
+    <source media='(prefers-color-scheme: dark)' srcset='https://i.ibb.co/PsQRJskM/Logo.png' alt='работник ж++ (белый) (не расизм)' width='200px'/>
+    <img src='https://i.ibb.co/R4cVvd4N/Logo-1.png' alt='работник ж++ (черный) (не расизм)' width='200px'/>
   </picture>
 </a>
 
