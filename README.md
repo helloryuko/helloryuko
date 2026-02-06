@@ -57,6 +57,8 @@ Zeemo, [7/27/2024 5:04 PM]
 тоже круто  
 ![image](https://github.com/user-attachments/assets/464f67b4-ba98-43e9-a2f6-23a7605846f0)
 
+<a href="https://ibb.co/j9SSTJwf"><img src="https://i.ibb.co/wZffRcQg/IMG-20260206-161401-489.jpg" alt="IMG-20260206-161401-489" border="0"></a>
+
 bool (*CanShoot)(void* weapon);struct WeaponCmd { 
  bool ToFire; bool ToAim; 
  bool ToReload; bool ToAction; 
