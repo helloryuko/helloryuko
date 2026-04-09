@@ -7,10 +7,13 @@
     <img src='https://i.ibb.co/R4cVvd4N/Logo-1.png' alt='работник ж++ (черный) (не расизм)' width='200px'/>
   </picture>
 </a>
+<img width="1379" height="166" alt="MS Paint _ Microsoft Paint Online(7)" src="https://github.com/user-attachments/assets/2800fa99-5e3c-489c-a583-e8b4e1df85d4" />
 
 ![Untitled](https://github.com/user-attachments/assets/c91fe845-b355-4353-90bd-5877bef31a42)
 выыфшщы
 <img src="https://github.com/user-attachments/assets/78ef06c4-9ee2-4093-a36a-562353862a7e" width=100>
+
+
 
 привет lhepmz
 <div align='right'>
